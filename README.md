@@ -102,6 +102,7 @@ Welcome to my little corner of the GitHub universe! 🚀✨
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Doraemon012&repo=Recipe-App&theme=dark" alt="Recipe-App"/>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Doraemon012&repo=SunSteps&theme=dark" alt="SunSteps"/>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Doraemon012&repo=OminiQuery&theme=dark" alt="OminiQuery"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Doraemon012&repo=VideoPost&theme=dark" alt="VideoPost"/>
 </div>
 
 
