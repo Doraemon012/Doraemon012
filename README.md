@@ -9,7 +9,7 @@ Welcome to my little corner of the GitHub universe! 🚀✨
 
 🤝 I love contributing to **Open Source** projects and being part of a vibrant coding community.
 
-🎨 I am also interested in **UI/UX design**- a key part of my process—making user-friendly, beautiful, and intuitive designs is what drives me to create seamless experiences.
+🎨 I am also interested in **UI/UX design**, a key part of my process; making user-friendly, beautiful, and intuitive designs is what drives me to create seamless experiences.
 
 
 
