@@ -1,18 +1,15 @@
 # 👋 Hi there! I'm **Neyati** 💫
 Welcome to my little corner of the GitHub universe! 🚀✨ 
 
-👩🏻‍💻 I am currently pursuing **B.Tech (CSE)** at **IIITDM Jabalpur**.
+👩🏻‍💻 I am recent **B.Tech (CSE)** graduate from **IIITDM Jabalpur**.
 
 🌍️ I’m a passionate developer, creative thinker, and lifelong learner who’s always ready to explore new horizons in tech. I code not just to build, but to innovate, collaborate, and make an impact!
 
-💻 I’m a **Python enthusiast** at heart, but I also enjoy crafting solutions with Java, TypeScript, etc.
+💻 I’m a **Python enthusiast** at heart, but I also enjoy crafting solutions with Java, TypeScript, Go etc.
 
 🤝 I love contributing to **Open Source** projects and being part of a vibrant coding community.
 
 🎨 I am also interested in **UI/UX design**, a key part of my process; making user-friendly, beautiful, and intuitive designs is what drives me to create seamless experiences.
-
-
-
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Doraemon012&label=Profile%20views&color=0e75b6&style=flat) 
 [![GitHub followers](https://img.shields.io/github/followers/Doraemon012?label=Follow&style=social)](https://github.com/Doraemon012)
